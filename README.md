@@ -190,20 +190,12 @@ WHERE rn <= 3;
 
 ---
 
-## 👨‍💻 Author
-
-**Tanzeel**  
-B.Com | MBA in HR & Finance  
-Passionate about SQL, data analysis, and visualization.  
-🚀 Experience in SolarWinds, DevOps, and data dashboarding tools.
-
----
-
 ## 📎 How to Use
-
-1. Run `pizzas_sales.sql` to create tables.
-2. Insert data into tables (manually or via CSV).
-3. Use other `.sql` files to perform analysis.
-4. Explore business metrics and visualize insights using SQL.
+1. The Repository:
+   
+2. Run `pizzas_sales.sql` to create tables.
+3. Insert data into tables (manually or via CSV).
+4. Use other `.sql` files to perform analysis.
+5. Explore business metrics and visualize insights using SQL.
 
 ---
