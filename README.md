@@ -192,7 +192,7 @@ WHERE rn <= 3;
 
 ## 📎 How to Use
 1. The Repository:
-   
+   https://github.com/TanzeelTechie/Pizzas-Sales-Analysis-With--MYSQL.git
 2. Run `pizzas_sales.sql` to create tables.
 3. Insert data into tables (manually or via CSV).
 4. Use other `.sql` files to perform analysis.
